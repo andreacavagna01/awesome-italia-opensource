@@ -39,6 +39,7 @@ Please read the [contribution guidelines](https://github.com/italia-opensource/a
 | [Musement](https://www.musement.com/it/)    | D2C  | Service    | culture                                                                  | Musement aiuta i viaggiatori a rendere indimenticabili i lor [..] |
 | [Musixmatch](https://www.musixmatch.com/it) | B2C  | Service    | ai, music                                                                | Our mission is to provide data, tools and services that allo [..] |
 | [Neulabs](https://neulabs.com)              | D2C  | Service    | ecommerce, aws                                                           | Born to identify and build the entrepreneurial successes of [..]  |
+| [Noovolari](https://noovolari.com)          | B2B  | Software   | azure, aws, cybersecurity                                                | Manage operations in Complex Cloud Env. Leapp's Authors     [..]  |
 | [Nuvolaris](https://nuvolaris.io/)          | C2C  | Software   | cloud-native, serverless                                                 | Helps software developers and companies deliver business val [..] |
 | [Opencity Labs](https://opencitylabs.it)    | B2B  | Software   | symfony, fastapi, kafka, golang, event-sourcing                          | The company behind OpencityItalia, the platform to create cl [..] |
 | [Orangefiber](https://orangefiber.it/)      | B2B  | Food       | sustainable                                                              | We create sustainable and innovative materials for fashion s [..] |
